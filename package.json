@@ -1,0 +1,26 @@
+{
+  "name": "es6-testing",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "es6-module-loader": "^0.16.5",
+    "ismailia": "^0.9.0",
+    "isparta": "^3.0.2",
+    "istanbul": "^0.3.13",
+    "jasmine-core": "^2.2.0",
+    "karma": "^0.12.31",
+    "karma-chrome-launcher": "^0.1.8",
+    "karma-coverage": "^0.3.1",
+    "karma-jasmine": "^0.3.5",
+    "karma-systemjs": "^0.3.0",
+    "karma-traceur-preprocessor": "^0.4.0",
+    "systemjs": "^0.16.9",
+    "traceur": "0.0.88"
+  }
+}
